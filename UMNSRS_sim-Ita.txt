@@ -1,0 +1,562 @@
+glaucoma	fibrillazione	279
+carbamazepina	fenitoina	370.5
+cardiomiopatia	paracetamolo	241
+herpes	ipertiroidismo	142.5
+mal mare	nausea	870.75
+coccidioidomicosi	istoplasmosi	981.25
+stenocardia	clopidogrel	673.75
+ondansetrone	ipecacuana	294.25
+attacchi	insulina	332.75
+setticemia	dispnea	434.5
+nistagmo	incontinenza	365.75
+mal mare	etanolo	465
+otalgia	iperacusia	760.25
+peste	colestiramina	255.25
+acyclovir	famciclovir	1052
+nausea	sintomi nausea vomito	1039.25
+chetonuria	chiluria	334.5
+convulsioni	etanolo	835.25
+parassitemia	malaria	1239.25
+proteinuria	diabete	1047
+gastroenterite	sodio cromoglicato	391
+ipoproteinemia	fame	519.75
+tiotropio	salmeterol	1118.5
+chetonuria	acido folico	383
+insulina	glucagone	448.75
+cataratta	sibili	217.25
+metadone	tramadolo	663.5
+diabete	psoriasi	412
+sbiancamento	pallore	1180.75
+assetato	furosemide	935.25
+fotosensibilizzazione	afonia	284.25
+poliuria	chiluria	189.5
+psoriasi	meningismo	222.25
+virilismo	sbavare	543
+comatoso	epatite	565
+insonnia	agitazione	882.5
+neuropatia	metformina	487.75
+psoriasi	artrite	1148.75
+tubercolosi	dita ippocratiche	631.25
+obesità	diabete	1142.25
+tromboembolia	emottisi	852
+pneumonite	ceftriaxone	867.25
+dossazosina	terazosina	716.25
+cataratta	metformina	272.75
+cirrosi	multivitamine	523
+attacchi	carbamazepina	798
+cataratta	insulina	391
+anemia	reticolocitosi	897
+convulsioni	carbamazepina	844
+osteoporosi	prednisolone	755
+attacchi	fenitoina	1001.75
+aglio	oli pesce	933.75
+dislipidemia	oli pesce	921.5
+fibrillazione	stenocardia	725.5
+cefoxitina	ceftriaxone	1154.5
+sordità	atassia	582.75
+penicillina	cefazolina	1078.75
+diabete	insulina	1155.25
+emocromatosi	anosmia	382
+ischemia	dolore intermestruale	398
+pallore	aspirina	406.75
+otalgia	coronamento	367.75
+herpes nas	colestasi	475.25
+dislipidemia	colestiramina	889.5
+rabbia	acne	256.25
+peste	adenite	816.25
+alcooli	disulfiram	743
+codeina	narcan	578.5
+warfarin	aspirina	1019.75
+vancomicina	glipizide	829.25
+coccidiosi	meningite	791.25
+pallore	warfarin	638.25
+aneurisma	osteoporosi	231.25
+ischemia	metoprololo	823.75
+flatulenza	glucagone	727.5
+cefazolina	cefalexina	1323
+osteoporosi	trombo	240.75
+encefalite	meningite	1037.75
+emofilia	tromboembolia	450
+artrite	artralgia	1091
+secrezione uretrale	tremore	342.5
+anovulazione	carboplatino	662.75
+albumine	eparina	377.5
+poliuria	insulina	766.75
+russare	stridore	492.75
+psoriasi	carvedilolo	194.75
+emorroidi	infertilità	191.25
+epilessia	fenobarbital	940.75
+epilessia	alcooli	566.75
+psoriasi	spasmo	221.25
+russare	loperamide	242
+arteriosclerosi	colestiramina	510.25
+mielosoppressione	russare	358
+pneumonite	setticemia	959.25
+ernia	demenza	237.75
+ematemesi	sintomi nausea vomito	1012.25
+artralgia	dolore	1206.25
+tiroxina	lidocaina	270.25
+pneumonite	dispnea	833.75
+bandemia	meningismo	776.75
+glaucoma	fibrillazione	276
+mal mare	mal d'auto	893.25
+artralgia	dita ippocratiche	317.5
+emofilia	glipizide	169
+disuria	clopidogrel	212.5
+sforzo insufficiente	virilismo	294.5
+aneurisma	sulfadiazina argentica	340.5
+colchicina	prednisolone	851.25
+ernia	carbidopa	418
+sovranutrizione	attacchi	396.5
+cataratta	pancreatite	307.5
+etanolo	alcooli	1265.5
+ipertiroidismo	attacchi	792.25
+esmololo	amiodarone	1058.75
+infertilità	carboplatino	853.5
+artralgia	nevralgia	763.5
+anossemia	propofol	477.75
+intontito	atenololo	617.75
+pancreatite	insulina	749.5
+gastroenterite	insulina	351.75
+leucopenia	cefacloro	343
+istoplasmosi	prednisolone	290
+neuropatia	costipazione	477.25
+dita ippocratiche	dispnea	930.75
+emiplegia	clopidogrel	704.5
+micosi	atorvastatina	300.5
+reumatismi	colchicina	775.25
+dispnea	penicillina	384
+cirrosi	ematemesi	1040.25
+emicefalea	cefalee	748.75
+loperamide	bisacodil	767
+lentezza	fatica	1186.5
+cardiomiopatie	sincope	869.5
+anossemia	attacchi	748
+mal mare	etanolo	646
+dislipidemia	gluconato ferroso	239
+talassemia	tremore	231.5
+convulsioni	amfebutamone	869.25
+stenocardia	norepinefrina	398.75
+miosite	metilprednisolone	792.75
+anovulazione	dolore intermestruale	558.25
+otalgia	amoxicillina	855.25
+ischemia	aloe vera	253.5
+bronchite	singulair	737.25
+atorvastatina	lovastatina	1174.75
+pneumonite	debolezza	633.75
+spasmo	frusemide	415.75
+torcicollo	eritromicina	343
+dermatite	allergia	1188
+sulfadiazina argentica	chetamina	293.75
+arteriosclerosi	ischemia	751.75
+emocromatosi	poliuria	309.5
+metatarsalgia	odontalgia	573.25
+disidratazione	inedia	977
+colite	epilessia	163
+diabete	polidipsia	1031.5
+chetonuria	inedia	1225.25
+attacchi	acido valproico	911
+gonorrea	clopidogrel	173
+multivitamine	vitamina b1	893
+ipotiroidismo	debolezza	904.75
+talassemia	emoglobinopatie	1307
+reticolocitosi	aspirina	670.75
+micosi	carboplatino	340.5
+micosi	meningite	975.5
+pallore	gluconato ferroso	901.75
+maculopapule	macula	1090
+pirosi	ibuprofene	644
+aloe vera	idrocodone	187.5
+codeina	d-metorfano	830.75
+acetilcisteina	adenosina	256.25
+sodio cromoglicato	prednisolone	856
+spasmo	opistotono	665.75
+diarrea	cefacloro	508.75
+ceftazidima	ceftriaxone	1086.5
+dolore	morfina	996.75
+narcan	fentanil	484.25
+vasculiti	emiplegia	363.5
+colchicina	probenecid	1098.75
+losartan	valsartan	1243.5
+cirrosi	anemia	727.5
+cefepime	estetica	648.25
+vaiolo	vaccinia	721.5
+inedia	dolore intermestruale	145.5
+fotosensibilizzazione	dermatite	957.75
+desametasone	actonel	472
+epatite	paracetamolo	880.25
+ischemia	sbavare	468.75
+ernia	otalgia	179.75
+gozzo	sclerodermia	394
+atassia	etanolo	840.25
+zoonosi	babesiosi	1136.75
+ronchi	rantoli	1075.5
+stanchezza	atenololo	537
+aterosclerosi	stenocardia	936
+epatite	ematemesi	778
+narcan	morfina	571.5
+diarrea	colchicina	794.5
+miosite	miopatia	1103
+bronchite	loperamide	242.75
+disuria	ciproflossacina	615.5
+levofloxacina	moxifloxacina	1120.25
+iperacusia	bleomicina	607.5
+cloramfenicolo	ceftriaxone	652.75
+cefacloro	cefoxitina	1174.5
+eritromicina	lidocaina	430
+ipotiroidismo	infertilità	598
+pantoprazolo	carbonato calcio	971.75
+catatonia	letargia	890
+schistosomiasi	dossazosina	201.75
+polidipsia	poliuria	1135.5
+cirrosi	atorvastatina	390.5
+stridore	russare	646.5
+atenololo	frusemide	708.25
+prostatismo	ciprofloxacina	744.5
+disidratazione	dissenteria	925.75
+enalapril	lisinopril	1280
+iperemesi	carboplatino	765.25
+reticolocitosi	ematemesi	427
+uremia	ipersonnolenza	657.5
+miopatia	tremito	555.25
+infertilità	fibrillazione	346
+chetonuria	insulina	891.5
+blastomicosi	attacchi	579.75
+candidiasi	prostatorrea	383.5
+eparina	protamine	691
+cardiomiopatia	rantoli	705.75
+micosi	dolore	355.25
+proteinuria	minoxidil	285.25
+stenocardia	dispnea	642.25
+batteriemia	amaurosi	445
+dislipidemia	atorvastatina	1029.5
+uremia	emaciamento	499.5
+osteoporosi	cardiomiopatia	295.25
+iperemesi	nausea	1240.25
+parassitemia	cardialgia	331
+neuropatia	insulina	754.75
+mal mare	dita ippocratiche	306.25
+gluconato ferroso	gluconato ferroso	1395
+cardialgia	loperamide	279.5
+reumatismi	paracetamolo	923.5
+brucellosi	zoonosi	1195.75
+atenololo	metoprololo	1279.25
+emaciamento	cachessia	1290.25
+afonia	dolore intermestruale	214.25
+inedia	anoressia	1176.75
+blefarospasmo	warfarin	207.75
+ampicillina	amoxicillina	1238
+stenocardia	diarrea	270.75
+frusemide	mannitolo	658.5
+uremia	piorrea	551
+incontinenza	furosemide	739.5
+tromboembolia	eparina	969.75
+esoftalmo	prostatismo	243.5
+uremia	aspirina	256
+carbidopa	griseofulvin	240.25
+allergia	estetica	203
+ernia	gozzo	354.75
+disidratazione	sincope	897.75
+artrite	reumatismi	1153.25
+infertilità	anovulazione	1192.75
+bronchite	salmeterol	939.25
+micosi	istoplasmosi	1282.5
+cataratta	diabete	652.75
+sovranutrizione	malnutrizione	160.75
+convulsioni	epilessia	1302.75
+cianosi	acido folico	365.5
+infertilità	blefarospasmo	225.25
+neuropatia	diabete	1032
+eritromicina	allopurinolo	345.5
+pirosi	pantoprazolo	981.5
+pallore	debolezza	1109.5
+iperestensione articolare	gemfibrozil	258.75
+debolezza	paresi	1158.25
+ipotiroidismo	tiroxina	984.75
+smorfie	emiballismo	634
+esoftalmo	tiroxina	928.5
+infertilità	anovulazione	1276.5
+intontito	vertigine	1287
+dislipidemia	stenocardia	806
+giardiasi	avitaminosi	422
+attacchi	aloe vera	167.75
+sertralina	fluossetina	1138.75
+peritonite	atassia	281.75
+actonel	alendronato	1276.5
+artralgia	chiluria	201
+dita ippocratiche	costipazione	167.75
+clopidogrel	atorvastatina	895.5
+adrenalina	norepinefrina	394.5
+costipazione	diarrea	161
+artrite	cirrosi	618.5
+meningite	tubercolosi	871.25
+intontito	etanolo	893.25
+cataratta	narcan	263.5
+agitazione	morfina	527.5
+anosmia	afonia	845
+sbavare	carbidopa	662.75
+cirrosi	methotrexate	706.25
+glaucoma	cefalee	841.25
+sincope	debolezza	737
+rigurgito	pirosi	1106.5
+tpa	streptochinasi	762.75
+azitromicina	ciprofloxacina	965
+catatonia	narcan	458
+artralgia	paracetamolo	869.25
+blefarospasmo	enuresi	321.25
+fotopsia	cefalee	632
+meningite	cefalee	1221.25
+gliburide	rosiglitazone	1128.25
+aterosclerosi	cardialgia	997.75
+iperemesi	ondansetrone	738.5
+trombofilia	emottisi	469.75
+obesità	orlistat	1007.25
+glipizide	ibuprofene	330.5
+aterosclerosi	influenza	257.75
+dolore scapola	alitosi	233.5
+epatomegalia	epatosplenomegalia	1164.75
+anosmia	digossina	293
+meningite	vancomicina	960.25
+ipersonnolenza	russare	764
+prostatorrea	ciprofloxacina	981.25
+flatulenza	alitosi	802.25
+rossore	gluconato ferroso	511.5
+dolore intermestruale	afonia	199.25
+emocromatosi	artrite	858.25
+dita ippocratiche	vitamina k	360.5
+dolore intermestruale	odontalgia	567.75
+assetato	fame	935.75
+sciatica	ibuprofene	854.5
+bronchite	pneumonite	1019.75
+candidiasi	metilprednisolone	390.25
+russare	etanolo	706.25
+fibrillazione	calamina	256
+digossina	diltiazem	1045
+alprazolam	lorazepam	1269
+epatite	cirrosi	1173
+dispnea	metilprednisolone	836
+dita ippocratiche	aglio	194
+reumatismi	insonnia	384.75
+reumatismi	prednisolone	883.25
+diabete	iperglicemia	1234.75
+fibrillazione	warfarin	1106.75
+emicefalea	nitroglicerina	298.75
+tromboembolia	fibrillazione	1026.5
+emottisi	warfarin	936.75
+osteoporosi	actonel	811.25
+atassia	costipazione	309.25
+micosi	coccidiosi	1137.25
+sciatica	sforzo insufficiente	375.25
+clonidina	metoprololo	921.25
+appendicite	cefazolina	889.5
+ceftriaxone	cefoxitina	1202.25
+emicefalea	paracetamolo	619.5
+clopidogrel	warfarin	1183.5
+gastroenterite	dissenteria	1255.75
+epilessia	epatomegalia	208.25
+ipoproteinemia	fame	886.5
+dispnea	salmeterol	815.25
+omeprazolo	metformina	305.75
+cisplatino	ondansetrone	645.5
+metilprednisolone	prednisolone	1387.5
+ischemia	atorvastatina	953.25
+dolore scapola	nitroglicerina	246.75
+micosi	blastomicosi	1118.5
+nausea	ondansetrone	974
+colestiramina	ezetimibe	1184
+debolezza	simvastatina	889.75
+secrezione uretrale	afonia	233.25
+carboplatino	cisplatino	1273.5
+neuropatia	sifilide	1034
+sifilide	penicillina	1094.25
+isosorbide	metoprololo	1031.5
+nefrite	piorrea	807.5
+doxiciclina	penicillina	680.75
+uremia	ibuprofene	393.25
+rantoli	cianosi	687.5
+iperestensione articolare	fame	338
+dolore intermestruale	actonel	307.5
+cirrosi	emocromatosi	956
+pancreatite	cataratta	342
+pancreatite	maculopapule	348.5
+tromboembolia	dispnea	962.5
+epatite	epatomegalia	910.25
+iperacusia	afonia	431.75
+trombocitopenia	pirosi	328.5
+appendicite	peritonite	934.75
+metatarsalgia	colchicina	792.25
+bandemia	granulocitosi	683.25
+norepinefrina	propofol	784
+reumatismi	poliartrite	1124.75
+brividi	russare	322.5
+vaiolo cammelli	echinacea	450
+sovranutrizione	ciclosporina	232.75
+leucopenia	bleomicina	890
+tiroxina	estratto tiroideo	483.75
+aterosclerosi	secrezione uretrale	212.25
+fibrillazione	tiroxina	881.5
+trombofilia	warfarin	846.75
+emiplegia	cefalee	561.5
+aterosclerosi	odontalgia	224.5
+clono	spasmo	967
+piorrea	nefrite	777.5
+dispnea	narcan	578.25
+brucellosi	narcan	199.75
+meningismo	iperestesia	536.75
+talassemia	gluconato ferroso	892.5
+nitroglicerina	metoprololo	785.25
+allergia	meningismo	319.5
+iperossia	orlistat	343.5
+mal d'aria	osteoporosi	206.5
+costipazione	diltiazem	178.75
+candidiasi	micosi	1151.25
+simvastatina	oli pesce	923.5
+comatoso	anossemia	668
+stenocardia	cardialgia	863
+vasculiti	convulsioni	372.5
+sincope	alprazolam	618.25
+gonorrea	orlistat	193.75
+iperossia	orlistat	197.25
+schistosomiasi	parassitemia	1187.5
+atorvastatina	simvastatina	1330.75
+russare	pomfi	327.5
+anossemia	atassia	496.75
+comatoso	cataratta	265.25
+amfebutamone	amitriptilina	309
+anosmia	costipazione	244.25
+cefalee	rossore	413.25
+bandemia	nausea	503.25
+fenobarbital	acido valproico	1046.5
+bleomicina	disulfiram	337.75
+avitaminosi	inedia	984.75
+micosi	metilprednisolone	388.75
+poliartrite	artralgia	1126
+cardiomiopatia	stenocardia	861.5
+cirrosi	simvastatina	498
+fame	inedia	1134.5
+ipotiroidismo	comatoso	710.75
+influenza	amantadina	919
+paracetamolo	ibuprofene	1067
+iperossia	anossemia	252
+ischemia	isosorbide	837.5
+anovulazione	torcicollo	228
+tubercolosi	emottisi	789.5
+fibrillazione	stenocardia	788.5
+ipotiroidismo	stanchezza	948.75
+sifilide	demenza	960.5
+carboplatino	ondansetrone	940
+sbavare	brividi	395
+artrite	sforzo insufficiente	333.25
+diabete	poliuria	1066
+emottisi	ematemesi	908.25
+proteinuria	lisinopril	926.5
+sbavare	levodopa	800.75
+pallore	albumine	528.75
+sifilide	gonorrea	1132.25
+cataratta	dolore scapola	288.5
+epilessia	lorazepam	836.5
+adenite	stridore	666.25
+pirosi	famotidina	893.5
+dita ippocratiche	tiotropio	846.75
+asma	urolitiasi	286
+tromboembolia	warfarin	964.75
+fibrillazione	alitosi	348
+glomerulosclerosi	proteinuria	858
+nocturia	diabete	775.25
+attacchi	calamina	190.75
+dolore scapola	metatarsalgia	870.25
+allopurinolo	colchicina	1142.25
+emocromatosi	artralgia	774.25
+amantadina	oseltamivir	1193
+meningite	ceftriaxone	1030
+miosite	atorvastatina	853.75
+pneumonite	cianosi	623.25
+tromboembolia	sincope	728.5
+linguaggio disorganizzato	nitroglicerina	219.5
+trombocitopenia	artrite	306.5
+sincope	atenololo	639.5
+tremore	levodopa	840.5
+epilessia	anosmia	404.25
+agitazione	tiroxina	637.5
+anovulazione	emaciamento	574
+eritema	fenitoina	468.5
+disidratazione	candidiasi	547
+rantoli	iperacusia	251.25
+cortisone	adenosina	214.75
+cefalee	paracetamolo	879.5
+artrite	metatarsalgia	769
+eritema	tremore	316
+obesità	russare	860
+dispnea	cianosi	1052.25
+uremia	nausea	621.25
+prostatismo	prostatorrea	964.75
+emoglobinopatie	dolore	505.25
+comatoso	iperglicemia	922.25
+debolezza	emaciamento	956.25
+assetato	fame	819
+dispnea	tiotropio	1075.5
+dislipidemia	tpa	531.75
+leucopenia	penicillina	416.25
+meningite	meningismo	864.5
+debolezza	glucagone	368
+costipazione	verapamil	193
+fibrillazione	atenololo	817.25
+gozzo	vasculiti	324.75
+nocturia	estetica	353.75
+ipertiroidismo	osteoporosi	493.75
+dislipidemia	iperlipidemia	809.5
+pallore	sbiancamento	955
+voriconazolo	fluossetina	193.25
+emottisi	protamine	544
+mastodinia	otalgia	807.5
+rantoli	frusemide	742
+anemia	warfarin	623.75
+levodopa	carbidopa	1533.5
+dermatite	aloe vera	695
+coccidiosi	metilprednisolone	388.5
+stanchezza	ipersonnolenza	1055.25
+poliuria	chetonuria	993.25
+odontalgia	atassia	255.5
+mannitolo	paracetamolo	223
+otite	meningismo	567
+clono	amfebutamone	317.5
+anemia	clopidogrel	539.5
+oli pesce	simvastatina	809.5
+nocturia	etanolo	680.25
+debolezza	cortisone	682
+dislipidemia	costipazione	318.5
+micosi	prostatismo	271.5
+demenza	aloe vera	223.5
+dissenteria	esmololo	229.5
+peste	caffeina	278.5
+rabbia	sulfadiazina argentica	239
+influenza	pneumonite	898.5
+rabbia	sindrome testa viso collo	417.25
+clopidogrel	insulina	286.25
+giardiasi	manierismo	152.75
+psoriasi	aterosclerosi	169.5
+propanololo	mupirocina	318.75
+odontalgia	terazosina	224.75
+dermatomiosite	miopatia	1019.5
+inedia	cisplatino	319
+anovulazione	amenorrea	1099.5
+agranulocitosi	anemia	933.25
+torcicollo	spasmo	1104
+stanchezza	verapamil	233.75
+calamina	bleomicina	227
+emocromatosi	mebendazolo	212.25
+anovulazione	carbidopa	326.25
+iperestensione articolare	estetica	261.25
+albuterolo	salmeterol	949.5
+artrite	amiloidosi	724.25
+cianosi	adrenalina	456.5
+famotidina	ranitidina	1247.25
+epilessia	ischemia	506.75
+mal d'auto	nausea	1168.75
+fibrillazione	cardiomiopatie	764.5
+zoonosi	peste	997.25
+meningismo	acyclovir	713.5
+aborto spontaneo	listeriosi	781.5
+dispnea	agitazione	593.25
+encefalite	cefalee	1052.5
+epilessia	actonel	329.25

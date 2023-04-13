@@ -1,0 +1,101 @@
+difficoltà deambulazione	andatura antalgica	6.69
+nodulo reumatoide	nodulo polmonare	2.38
+steccatura mano	emorragie scheggia	1
+diabete	polipo	1
+ipertensione portale	nevo pigmentato	1
+scompenso cardiaco congestizio	ipertensione portale	1.69
+edema periferico	edema polmonare	3.92
+calcolo renale	ostruzione uretere	4.69
+mal schiena	stenosi spinale	5.31
+osteofito	noduli Heberden	4
+artrite reumatoide	nodulo reumatoide	7.08
+contraccettivo	controindicato	1
+immunizzazione	immunodeficiente	2.15
+miopatia	dermatomiosite	4.46
+inibitori reduttasi coenzima A idrossimetilglutarilico	iperlipidemie	2.23
+debolezza	neuropatia	4.08
+dispnea	tachipnea	4.08
+embolia polmonare	emottisi	2.77
+osteoartrite	sclerosi ossea	2.85
+test cassetto	dolore ginocchio	3.77
+rilassatezza	sindrome Marfan	2.08
+punti trigger	fibromialgia	3.54
+rigidità mattutina	artrite reumatoide	5.69
+ictus	emiparesi	5
+tronco cerebrale	nervo cranico	4.23
+deglutizione	peristalsi	4.38
+disfagia	ipomotilità	3.77
+onda T	infarto miocardico	5.23
+cavità	tubercolosi	4.08
+metastasi	carcinomatosi	8.23
+arterite temporale	mal testa	4.69
+anticorpi antinucleari	autoimmune	5.23
+fenomeno Raynaud	ischemia	4.85
+sclerodermia	sclerosi sistemica	5
+polmonite	infiltrazione	4.85
+ileite	morbo Crohn	6.85
+sindrome paraneoplastica	tumore maligno primario	5.31
+artrite reumatoide	erosione articolare	6.15
+necrosi	liquefazione	1.92
+diarrea	colite	5.54
+dispepsia	ulcera peptica	5.23
+confusione	delirio	6.08
+allucinazione	psicotico	6
+stomatite	ulcera bocca	6.85
+embolo polmonare	polmonite	3.23
+artrite reumatoide	artroscopia	3.77
+iniezione	versamento articolare	3.31
+uveite	antigene HLA-B27	2.23
+vasculite	trombosi	3
+sepsi	ipotensione	1.69
+urticaria	eritema farfalla	5.31
+gastrostomia	malnutrizione	4.31
+edema	velocità filtrazione glomerulare	2.38
+colonscopia	polipo	5.46
+cortisone	osteoporosi	2.85
+stenosi aortica	calcificazione	5.62
+malaria	amebiasi	3.15
+neuropatia	paralisi	2.85
+crisi convulsiva	mal testa	3.31
+iperplasia linfoide	xerostomia	1
+sarcoidosi	vitamina D	1.46
+ulcera gamba	vene varicose	3.92
+camminare	salire scale	4.38
+pannicolite	lipoma	3.15
+aritmia	valvola mitrale	3.31
+emolisi	emoglobina	5.46
+disgeusia	deglutizione	1.92
+dispareunia	ovulazione	2.31
+penicillina	allergia	3
+leucemia	cellula staminale	5.08
+cancro prostata	fosfatasi acida	1.69
+menisco	osteoartrite	2.62
+sodio	imaging risonanza magnetica	1
+protrombina	siringa	1.77
+mieloma multiplo	depressione	1.08
+diabete	nodulo reumatoide	1
+chetoacidosi	lupus	1.23
+stenosi tracheale	cancro colon	1
+sinusite	sinusoide	2.85
+cirrosi criptogenica	gastrina	1
+scompenso cardiaco	psicosi	1
+polipo rettale	neoplasie laringee	1
+anticorpi antifosfolipidici	acne	1.08
+perseverazione	ulcera stasi venosa	1.31
+depressione bipolare	ritmo giunzionale	1
+stenosi mitralica	ulcera peptica	1
+sindrome distress respiratorio acuto	cellulite	1
+compressione midollo spinale	compressione ferita	1
+stenosi spinale cervicale	cirrosi alcolica	1
+epatite autoimmune	parto prematuro	1
+aneurisma cerebrale	embolo polmonare	1.46
+carcinoma polmone piccole cellule	diabete tipo 2	1
+ematemesi	xerostomia	1.54
+ulcera corneale	ulcera decubito	2
+dispnea	mialgia	1
+broncopneumopatia cronica ostruttiva	alitosi	1.08
+osteoartrite	nefrolitiasi	1
+rottura legamento	torsioni punta	1.08
+fibrosi polmonare	appendicite	1
+sindrome tunnel carpale	alveolite	1
+eritema	osteoporosi	1.54
