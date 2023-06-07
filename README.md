@@ -3,7 +3,7 @@ Here you can find the word embeddings and the translated test sets from Bavaro, 
 
 Word embeddings can be downloaded at the following link: https://drive.google.com/file/d/1RwYADqVO9hi-GEMyvHf-cLRYRqanHh3Z/view?usp=share_link
 
-Cite:
+### Cite:
 ```
 @inproceedings{bavaro2023biovec,
   title={BioVec-Ita: Biomedical Word Embeddings for the Italian Language},
